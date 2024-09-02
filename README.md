@@ -1,16 +1,13 @@
-# sudoku_solver
+# Sudoku Solver
 
-A new Flutter project.
+A Sudoku Solver created using Flutter.  
+The user can fill any number of cells of the sudoku and the program finds the solution to the sudoku using brute force.
 
-## Getting Started
+# Running The Application
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You need to have the Flutter SDK installed to run the application.  
+Visit the [official flutter website](https://docs.flutter.dev/get-started/install]) to install the Flutter SDK.  
+To clone the repository use the `git clone` command.  
+After cloning the repository `cd` into the project folder.  
+Run the command `flutter pub get` to install all the dependencies of the project.  
+Run the command `flutter run` to run the application.
